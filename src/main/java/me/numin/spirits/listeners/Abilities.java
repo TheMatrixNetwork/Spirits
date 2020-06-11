@@ -120,6 +120,10 @@ public class Abilities implements Listener {
         if (event.getDamager() instanceof Player) {
             Player player = (Player) event.getDamager();
             BendingPlayer bPlayer = BendingPlayer.getBendingPlayer(player);
+
+            if(bPlayer == null)
+                return;
+
             String boundAbility = bPlayer.getBoundAbilityName();
 
             if (boundAbility.equalsIgnoreCase("Possess") && isPossessing && event.getCause() == DamageCause.CONTACT) {
