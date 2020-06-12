@@ -1,23 +1,23 @@
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\light\combo\Rejuvenate.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\listeners\Passives.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\config\Config.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\SpiritElement.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\listeners\Abilities.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\api\LightAbility.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\dark\Intoxicate.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\light\Alleviate.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\spirit\Possess.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\spirit\Vanish.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\dark\combo\Infest.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\Methods.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\spirit\combo\Phase.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\spirit\Soar.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\light\Shelter.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\api\SpiritAbility.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\dark\Strike.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\api\DarkAbility.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\config\ConfigFile.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\spirit\Dash.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\dark\Shackle.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\Spirits.java
-C:\Users\pavel\Spirits\src\main\java\me\numin\spirits\ability\light\Orb.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\SpiritElement.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\api\DarkAbility.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\Methods.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\spirit\Vanish.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\dark\combo\Infest.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\spirit\Dash.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\config\Config.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\api\SpiritAbility.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\api\LightAbility.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\light\Orb.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\spirit\Soar.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\spirit\Possess.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\config\ConfigFile.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\light\combo\Rejuvenate.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\light\Shelter.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\dark\Intoxicate.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\listeners\Passives.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\spirit\combo\Phase.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\listeners\Abilities.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\Spirits.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\dark\Strike.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\light\Alleviate.java
+c:\Users\Lamar Cooley\eclipse-workspace\Spirits\src\main\java\me\numin\spirits\ability\dark\Shackle.java
